@@ -1,1 +1,1 @@
-* hw_language_modeling: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/24f_ysda/hw_language_modeling.ipynb)
+* hw_language_modeling: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/24f_ysda/homeworks/hw_language_modeling_01_simple/hw_language_modeling.ipynb)
