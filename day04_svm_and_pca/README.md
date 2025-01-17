@@ -7,3 +7,5 @@ Practice:
 * PCA practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25s_harbour/day04_svm_and_pca/day04_pictures_svd.ipynb)
 
 * SVM practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/22f_basic/day04_svm_and_pca/day04_SVM_practice.ipynb)
+
+* (extra) EDA for small task from Day01 practice  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/22f_basic/day04_svm_and_pca/practical_part_and_eda_from_day01.ipynb)
