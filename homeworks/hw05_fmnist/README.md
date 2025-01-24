@@ -1,3 +1,1 @@
-Fashion MNIST assignment:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/24s_harbour/homeworks/hw05_fmnist/assignment_fmnist.ipynb)
-
+* Home assignment on overfitting (and fixing) the model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25s_harbour/homeworks/hw_overfitting/hw_fmnist_overfitting.ipynb)
