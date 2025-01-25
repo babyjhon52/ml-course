@@ -3,6 +3,9 @@
 * CNN practice:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25s_harbour/day10_cnns_and_images/practice_cnns_and_image_classification_en.ipynb)
 
+* Deep Dream:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25s_harbour/day10_cnns_and_images/deep_dream.ipynb)
+
 ## Additional:
 1. [en] CS231n notes on data preparation:
    http://cs231n.github.io/neural-networks-2/
