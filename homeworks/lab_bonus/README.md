@@ -1,0 +1,1 @@
+* Bonus assignment: gradient boosting and feature importances: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/25s_harbour/homeworks/lab_bonus/lab_boosting_and_explanation.ipynb)
