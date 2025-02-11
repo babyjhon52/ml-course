@@ -1,8 +1,8 @@
 BERT for text classification:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/24s_advanced/week04_transfer_learning/04_bert_for_text_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/24s_advanced/week04_transfer_learning/week04_bert_for_text_classification.ipynb)
 
 Solved version:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/24s_advanced/week04_transfer_learning/04_bert_for_text_classification.solved.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/24s_advanced/week04_transfer_learning/week04_bert_for_text_classification.solved.ipynb)
 
 **Further readings**:
 
